@@ -1,0 +1,46 @@
+# BaseballPitch
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**ball_color** | **str** |  | [optional] 
+**trail_color** | **str** |  | [optional] 
+**start_speed** | **float** |  | [optional] 
+**end_speed** | **float** |  | [optional] 
+**nasty_factor** | **float** |  | [optional] 
+**strike_zone_top** | **float** |  | [optional] 
+**strike_zone_bottom** | **float** |  | [optional] 
+**strike_zone_width** | **float** |  | [optional] 
+**strike_zone_depth** | **float** |  | [optional] 
+**geta_x** | **float** |  | [optional] 
+**geta_y** | **float** |  | [optional] 
+**geta_z** | **float** |  | [optional] 
+**pfx_x** | **float** |  | [optional] 
+**pfx_z** | **float** |  | [optional] 
+**getp_x** | **float** |  | [optional] 
+**getp_z** | **float** |  | [optional] 
+**getv_x0** | **float** |  | [optional] 
+**getv_y0** | **float** |  | [optional] 
+**getv_z0** | **float** |  | [optional] 
+**x** | **float** |  | [optional] 
+**y** | **float** |  | [optional] 
+**z0** | **float** |  | [optional] 
+**y0** | **float** |  | [optional] 
+**x0** | **float** |  | [optional] 
+**break_horizontal** | **float** |  | [optional] 
+**break_vertical** | **float** |  | [optional] 
+**break_vertical_induced** | **float** |  | [optional] 
+**break_angle** | **float** |  | [optional] 
+**break_length** | **float** |  | [optional] 
+**break_x** | **float** |  | [optional] 
+**break_y** | **float** |  | [optional] 
+**break_z** | **float** |  | [optional] 
+**zone** | **int** |  | [optional] 
+**spin_rate** | **int** |  | [optional] 
+**spin_direction** | **int** |  | [optional] 
+**type_confidence** | **float** |  | [optional] 
+**plate_time** | **float** |  | [optional] 
+**extension** | **float** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
