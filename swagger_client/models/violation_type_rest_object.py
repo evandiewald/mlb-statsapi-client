@@ -49,7 +49,7 @@ class ViolationTypeRestObject(object):
         'violator_code': 'violatorCode'
     }
 
-    def __init__(self, copyright=None, violation_type_desc=None, violation_type_desc=None, violation_type_code=None, event_type=None, event_type_code=None, parent_id=None, violator_code=None):  # noqa: E501
+    def __init__(self, copyright=None, violation_type_desc=None, violation_type_code=None, event_type=None, event_type_code=None, parent_id=None, violator_code=None):  # noqa: E501
         """ViolationTypeRestObject - a model defined in Swagger"""  # noqa: E501
         self._copyright = None
         self._violation_type_desc = None
